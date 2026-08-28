@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Cybersecurity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=808080&center=true&vCenter=true&width=800&lines=Cybersecurity;Offensive+Security;Omar+Romman" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Hacker Animation" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Hacker on Laptop Animation" />
 </div>
 
 ---
@@ -98,7 +98,7 @@ I'm continuously learning, building security-focused projects, experimenting wit
   <a href="https://www.linkedin.com/in/omar-romman-17202a329/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/201020765344">
+  <a href="https://wa.me/2010765344">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
