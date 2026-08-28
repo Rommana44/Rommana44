@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img src="hacker.gif" width="400" alt="Hacker Animation" />
+  <img src="https://media.giphy.com/media/YQitE4YNQBroM1uc11/giphy.gif" width="400" alt="Hacker Animation" />
 </div>
 
 ---
