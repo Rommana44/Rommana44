@@ -33,40 +33,19 @@ I am a professional specializing in **Cybersecurity and Software Engineering**. 
 
 *Here are some of the key repositories and open-source projects I've built and contributed to across web development, networking, and machine learning:*
 
-<p align="center">
-  <a href="https://github.com/Rommana44/vectorental">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rommana44&repo=vectorental&theme=radical&bg_color=0D1117&border_color=30363D&title_color=00FF00&text_color=C9D1D9" width="48%" />
-  </a>
-  <a href="https://github.com/raghadenawar23/Q-Signal-R-Results">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raghadenawar23&repo=Q-Signal-R-Results&theme=radical&bg_color=0D1117&border_color=30363D&title_color=00FF00&text_color=C9D1D9" width="48%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/kirollos-maged/No-Way-Out">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirollos-maged&repo=No-Way-Out&theme=radical&bg_color=0D1117&border_color=30363D&title_color=00FF00&text_color=C9D1D9" width="48%" />
-  </a>
-  <a href="https://github.com/kirollos-maged/CN-EmailClient">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirollos-maged&repo=CN-EmailClient&theme=radical&bg_color=0D1117&border_color=30363D&title_color=00FF00&text_color=C9D1D9" width="48%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/kirollos-maged/Car-Rental">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirollos-maged&repo=Car-Rental&theme=radical&bg_color=0D1117&border_color=30363D&title_color=00FF00&text_color=C9D1D9" width="48%" />
-  </a>
-  <a href="https://github.com/Rommana44/flight-reservation-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rommana44&repo=flight-reservation-system&theme=radical&bg_color=0D1117&border_color=30363D&title_color=00FF00&text_color=C9D1D9" width="48%" />
-  </a>
-</p>
+| Project | Description | Technology |
+|---------|-------------|------------|
+| 🌐 **[vectorental](https://github.com/Rommana44/vectorental)** | Web application forming a crucial foundation for web app security assessments. | `PHP` `JavaScript` `HTML/CSS` |
+| ✈️ **[flight-reservation-system](https://github.com/Rommana44/flight-reservation-system)** | Object-oriented airline ticket reservation system demonstrating core programming logic. | `Java` `OOP` |
+| 🛡️ **[No-Way-Out](https://github.com/kirollos-maged/No-Way-Out)** | Software engineering and algorithm implementation project. | `Python` |
+| ✉️ **[CN-EmailClient](https://github.com/kirollos-maged/CN-EmailClient)** | Custom Computer Networks tool and email client implementation. | `Python` `Networking` |
+| 🤖 **[Q-Signal-R-Results](https://github.com/raghadenawar23/Q-Signal-R-Results)** | Data analysis, machine learning, and algorithm results processing. | `Jupyter Notebook` `AI` |
+| 🚗 **[Car-Rental](https://github.com/kirollos-maged/Car-Rental)** | Backend architecture and logic for a full-scale rental service. | `PHP` `Web Architecture` |
 
 ---
 
 ### 📊 GitHub Activity & Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rommana44&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rommana44&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=C9D1D9" alt="Top Languages" width="48%" />
-</div>
-<br>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rommana44&theme=dark&background=0D1117&border=30363D&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00FF00&sideLabels=00FF00&dates=C9D1D9" alt="GitHub Streak" />
 </div>
