@@ -1,19 +1,37 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Hacker Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Cybersecurity" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Offensive%20Security-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red%20Teaming-000000?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Penetration%20Testing-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/CTF%20Player-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-000000?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+</p>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Cybersecurity" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Hacker Animation" />
 </div>
 
 ---
 
-### 👨‍💻 About Me
-I am a professional specializing in **Cybersecurity and Software Engineering**. I combine a deep understanding of application architecture, machine learning, and computer networks to build and secure complex systems.
+### 👋 About Me
+I'm Omar Romman, a Cybersecurity enthusiast focused on Offensive Security, with a strong interest in Penetration Testing, Web Application Security, and Red Teaming.
 
-* 🔭 **Currently focusing on:** Offensive Security, Python Development, and integrating AI/ML technologies.
-* 🛠️ **Engineering background:** Experience building full-stack web applications, custom networking tools (like Email Clients), and AI projects.
-* 🔐 **Cybersecurity:** Using my software development background to deeply understand web vulnerabilities and systems architecture.
+I enjoy exploring how systems and applications work, identifying security weaknesses, and developing practical solutions through programming and scripting. I also work on cybersecurity and technical content, sharing knowledge, documenting technical research, and exploring security concepts through hands-on projects and CTFs.
+
+My interests sit at the intersection of:
+
+- 🔐 Cybersecurity & Offensive Security
+- 🕵️ Penetration Testing
+- 🌐 Web Application Security
+- 🎯 Red Teaming
+- 💻 Programming & Scripting
+- 🧪 Security Research & CTFs
+- ✍️ Cybersecurity & Technical Content
+
+I'm continuously learning, building security-focused projects, experimenting with new technologies, and improving my ability to think from both an attacker's and defender's perspective.
 
 ---
 
@@ -37,7 +55,7 @@ I am a professional specializing in **Cybersecurity and Software Engineering**. 
 
 <div align="left">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Nmap-213158?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Nmap-213158?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Nmap" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Metasploit-1269F3?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
   <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
@@ -74,13 +92,13 @@ I am a professional specializing in **Cybersecurity and Software Engineering**. 
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:omaryousefromman1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/omar-romman-17202a329/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://your-blog.com">
-    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Blog" />
+  <a href="https://wa.me/2010765344">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
