@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img src=""C:\Users\Shoair Store\Downloads\0_Y9DYESX1Qchr8YzX.gif"" width="400" alt="Hacker Animation" />
+  <img src="0_Y9DYESX1Qchr8YzX.gif"" width="400" alt="Hacker Animation" />
 </div>
 
 ---
